@@ -1,80 +1,120 @@
-# Experimental Timeline
+# Experimental Protocol
 
-## Overview
+## Objective
 
-This timeline describes the sequence of preparation, exposure, and observation steps.
+This experiment aims to observe how alginate-based bioplastic films transform under marine-like conditions.
 
----
-
-## Day 1 — Preparation
-
-- Preparation of alginate mixtures  
-- Laser cutting of frames  
-- 3D printing of shapes (sharks / rays)  
+The goal is not to measure biodegradation, but to reveal **physical and chemical transformation mechanisms**.
 
 ---
 
-## Day 2 — Casting
+## Materials
 
-- Pouring bioplastic films  
-- Thickness adjustment  
-- Initial drying  
+### Bioplastics
+- Sodium alginate  
+- Distilled water  
+- Glycerine (2 g / 6 g)  
+- Calcium lactate (crosslinking)
 
----
+### Environment
+- Artificial seawater (see recipe)  
+- Freshwater (control)
 
-## Day 3 — Drying + Environment Setup
-
-- Continued drying of films  
-- Preparation of artificial seawater  
-
----
-
-## Day 4 — Final Drying
-
-- Films fully dried  
-- Ready for experimentation  
-
----
-
-## Day 5 — Exposure
-
-- Immersion of selected samples  
-- Spray application for evaporation tests  
+### Equipment
+- Casting plates  
+- Containers (immersion)  
+- Spray bottle (evaporation tests)  
+- Scale  
+- Timer  
 
 ---
 
-## Day 6 — First Observations
+## Sample Preparation
 
-- Short exposure results (~6h)  
-- Initial deformation and texture changes  
-
----
-
-## Day 7–8 — Extended Exposure
-
-- Long exposure (~3 days)  
-- Progressive transformations  
+1. Prepare alginate solution (see recipe)  
+2. Add glycerine (low or high concentration)  
+3. Cast films on flat surface  
+4. Dry at room temperature (24–48h)  
+5. Spray calcium lactate solution to stabilize  
 
 ---
 
-## Day 9 — Analysis
+## Experimental Setup
 
-- Comparison of samples  
-- Documentation of differences  
+Each sample is assigned a combination of:
 
----
-
-## Notes
-
-- Some samples may continue evolving beyond this timeline  
-- Environmental conditions remain controlled  
+- Glycerine concentration (low / high)  
+- Environment (freshwater / seawater)  
+- Exposure method (immersion / evaporation)  
+- Time (short / long)  
+- Light (with / without)  
 
 ---
 
-## Purpose
+## Exposure Methods
 
-The timeline ensures:
+### 1. Immersion
 
-- Reproducibility  
-- Clear sequencing of transformations  
-- Structured observation of material evolution  
+- Samples fully submerged in liquid  
+- Continuous exposure  
+- Observes internal transformations  
+
+---
+
+### 2. Evaporation (spray)
+
+- Samples sprayed with seawater  
+- Left to dry between applications  
+- Simulates coastal conditions  
+
+---
+
+## Exposure Time
+
+- Short: ~6 hours  
+- Long: ~3 days  
+
+Additional observations may extend beyond this timeframe.
+
+---
+
+## Observations
+
+At each time point, the following are recorded:
+
+- Flexibility  
+- Deformation  
+- Transparency  
+- Surface texture  
+- Presence of salt crystals  
+
+---
+
+## Data Collection
+
+- Visual documentation (photos)  
+- Qualitative notes  
+- Simple mechanical tests (manual bending)  
+
+---
+
+## Limitations
+
+- Simplified seawater model  
+- No microbiological activity  
+- Short observation time  
+
+---
+
+## Experimental Logic
+
+The protocol isolates key variables to understand:
+
+→ How material formulation interacts with environmental conditions  
+→ How transformations emerge over time  
+
+---
+
+## Key Principle
+
+> The experiment focuses on transformation, not disappearance.
