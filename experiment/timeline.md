@@ -7,11 +7,14 @@ Day 1-3
 - Laser cut frames  
 - 3D print shapes  
 
+
 Day 4 
 - Prepare biofilms
 
+
 Day 5
 - Cast bioplastic films
+
 
 Day 6-9  
 - Dry films  
@@ -24,12 +27,15 @@ Day 6-9
 Day 10  
 - Start exposure (immersion / spray)  
 
+
 Day 11 (6h)  
 - First observations  
+
 
 Day 12-13  
 - Medium exposure (~2 days)  
 - Second observations  
+
 
 Day 15-17 
 - Medium exposure (~6 days)  
