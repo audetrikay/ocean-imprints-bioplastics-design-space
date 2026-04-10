@@ -1,80 +1,50 @@
-# Experimental Timeline
+# Timeline
 
-## Overview
+## Preparation phase
 
-This timeline describes the sequence of preparation, exposure, and observation steps.
+Day 1-3 
+- Prepare materials  
+- Laser cut frames  
+- 3D print shapes  
 
----
+Day 4 
+- Prepare biofilms
 
-## Day 1 — Preparation
+Day 5
+- Cast bioplastic films
 
-- Preparation of alginate mixtures  
-- Laser cutting of frames  
-- 3D printing of shapes (sharks / rays)  
-
----
-
-## Day 2 — Casting
-
-- Pouring bioplastic films  
-- Thickness adjustment  
-- Initial drying  
+Day 6-9  
+- Dry films  
+- Prepare seawater  
 
 ---
 
-## Day 3 — Drying + Environment Setup
+## Experiment phase
 
-- Continued drying of films  
-- Preparation of artificial seawater  
+Day 10  
+- Start exposure (immersion / spray)  
 
----
+Day 11 (6h)  
+- First observations  
 
-## Day 4 — Final Drying
+Day 12-13  
+- Medium exposure (~2 days)  
+- Second observations  
 
-- Films fully dried  
-- Ready for experimentation  
-
----
-
-## Day 5 — Exposure
-
-- Immersion of selected samples  
-- Spray application for evaporation tests  
+Day 15-17 
+- Medium exposure (~6 days)  
+- Third observations  
 
 ---
 
-## Day 6 — First Observations
+## Analysis phase
 
-- Short exposure results (~6h)  
-- Initial deformation and texture changes  
-
----
-
-## Day 7–8 — Extended Exposure
-
-- Long exposure (~3 days)  
-- Progressive transformations  
-
----
-
-## Day 9 — Analysis
-
-- Comparison of samples  
-- Documentation of differences  
-
----
-
-## Notes
-
-- Some samples may continue evolving beyond this timeline  
-- Environmental conditions remain controlled  
+Day 18  
+- Compare samples  
+- Document results  
 
 ---
 
 ## Purpose
 
-The timeline ensures:
-
-- Reproducibility  
-- Clear sequencing of transformations  
-- Structured observation of material evolution  
+Ensure consistent timing across samples.
