@@ -36,6 +36,8 @@ High glycerine:
 - More flexible  
 - Deforms but persists  
 
+---
+
 ## General trend
 
 - Seawater → transformation  
