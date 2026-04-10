@@ -40,8 +40,8 @@ High glycerine:
 
 ## General trend
 
-- Seawater → transformation  
-- Freshwater → stability  
+- Seawater => transformation  
+- Freshwater => stability  
 
 ---
 
