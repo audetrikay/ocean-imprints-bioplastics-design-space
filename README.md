@@ -9,19 +9,19 @@
 OCEAN IMPRINTS explores how alginate-based bioplastics behave in a marine-like environment.  
 While bioplastics are often presented as sustainable alternatives, their behavior in real conditions remains poorly understood.
 
-This project investigates the gap between **promise and reality**, focusing on:
+This project investigates the gap between **promise and reality** focusing on:
 
 - Material transformation rather than disappearance  
 - The influence of environmental conditions  
 - The role of context in material sustainability  
 
-The outcome is a **design space and material atlas** documenting transformations such as deformation, crystallization, and rigidification.
+The outcome is a **design space** documenting transformations such as deformation crystallization, and rigidification.
 
 ---
 
 ## Key Insight
 
-> Bioplastics do not disappear in marine environments — they transform.
+> Bioplastics do not disappear in marine environments? they transform.
 
 ---
 
