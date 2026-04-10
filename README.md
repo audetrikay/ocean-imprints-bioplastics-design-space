@@ -55,9 +55,8 @@ The project is structured as an experimental design space based on variables:
 
 These results challenge the assumption that bioplastics are inherently harmless in natural environments.
 
----
 
-## Results — Rigidity Evolution
+### Rigidity Evolution
 
 ![Rigidity evolution](results/rigidity_evolution.png)
 
