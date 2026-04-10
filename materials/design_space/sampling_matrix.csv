@@ -1,17 +1,27 @@
-Sample,Polymer,Seawater,Glycerine,Method,Time,Light
-1,Alginate 3g,Yes,Low (2g),Immersion,Short (6h),No
-2,Alginate 3g,Yes,Low (2g),Immersion,Long (3d),Yes
-3,Alginate 3g,Yes,Low (2g),Immersion,Long (3d),No
-4,Alginate 3g,Yes,Low (2g),Evaporation,Short (6h),No
-5,Alginate 3g,Yes,High (6g),Immersion,Short (6h),No
-6,Alginate 3g,Yes,High (6g),Immersion,Long (3d),No
-7,Alginate 3g,Yes,High (6g),Immersion,Long (3d),No
-8,Alginate 3g,Yes,High (6g),Evaporation,Short (6h),No
-9,Alginate 3g,No,Low (2g),None,None,None
-10,Alginate 3g,No,High (6g),None,None,None
-Shark 1,Alginate,No,Low (2g),None,None,None
-Shark 2,Alginate,Yes,Low (2g),Immersion,Long (3d),No
-Shark 3,Alginate,Yes,Low (2g),Evaporation,Short (6h),No
-Ray 1,Alginate,No,High (6g),None,None,None
-Ray 2,Alginate,Yes,High (6g),Immersion,Long (3d),No
-Ray 3,Alginate,Yes,High (6g),Evaporation,Short (6h),No
+Sample,Polymer,Seawater,Glycerine,Method,Exposure,Light
+1,Alginate 3g,Yes,Low (2g),Immersion,6h,No
+2,Alginate 3g,Yes,Low (2g),Immersion,2d,Yes
+3,Alginate 3g,Yes,Low (2g),Immersion,2d,No
+4,Alginate 3g,Yes,Low (2g),Immersion,6d,No
+
+5,Alginate 3g,Yes,High (6g),Immersion,6h,No
+6,Alginate 3g,Yes,High (6g),Immersion,2d,No
+7,Alginate 3g,Yes,High (6g),Immersion,6d,No
+
+8,Alginate 3g,Yes,Low (2g),Evaporation,1 spray,No
+9,Alginate 3g,Yes,Low (2g),Evaporation,3 sprays,No
+10,Alginate 3g,Yes,High (6g),Evaporation,1 spray,No
+11,Alginate 3g,Yes,High (6g),Evaporation,3 sprays,No
+
+12,Alginate 3g,No,Low (2g),Control,None,None
+13,Alginate 3g,No,High (6g),Control,None,None
+
+Shark 1,Alginate,No,Low (2g),Control,None,None
+Shark 2,Alginate,Yes,Low (2g),Immersion,3d,No
+Shark 3,Alginate,Yes,Low (2g),Evaporation,1 spray,No
+Shark 4,Alginate,Yes,Low (2g),Evaporation,3 sprays,No
+
+Ray 1,Alginate,No,High (6g),Control,None,None
+Ray 2,Alginate,Yes,High (6g),Immersion,3d,No
+Ray 3,Alginate,Yes,High (6g),Evaporation,1 spray,No
+Ray 4,Alginate,Yes,High (6g),Evaporation,3 sprays,No
