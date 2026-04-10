@@ -1,1 +1,9 @@
-
+Condition,Exposure,Low Glycerine (2g),High Glycerine (6g)
+Immersion,0h,Initial rigid,Initial flexible
+Immersion,6h,Slight rigidification,Flexible
+Immersion,2d,Rigid + deformation,Partial rigidification
+Immersion,6d,Very rigid + brittle,Rigid but still flexible
+Vaporization,1 spray,Wet surface,Wet surface
+Vaporization,3 sprays,Crystallization starts,Light crystallization
+Vaporization,5d,Strong crystallization + roughness,Moderate crystallization
+Freshwater control,None,Swelling + stable,Flexible + stable
