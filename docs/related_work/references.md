@@ -53,8 +53,8 @@
 
 ## Light in Aquatic Environments
 
-**Kirk, J. T. O. (1994)**  
-*Light and Photosynthesis in Aquatic Ecosystems*  
+**Wollschläger, A. L. (2021)**  
+*Climate Change and Light in Aquatic Ecosystems: Variability & Ecological Consequences*  
 => Explains:
 - light attenuation in water  
 - limited UV penetration  
