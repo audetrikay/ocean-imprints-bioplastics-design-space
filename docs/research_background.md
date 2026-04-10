@@ -3,20 +3,19 @@
 Bioplastics are presented as sustainable alternatives to conventional plastics, yet their behavior strongly depends on environmental conditions.
 
 Alginate-based materials are hydrophilic and sensitive to ions:
-- Ca²⁺ → crosslinking → rigidification  
-- Na⁺ → structural modification  
+- Ca²⁺ => crosslinking => rigidification  
+- Na⁺ => structural modification  
 
 In marine environments:
 - high salinity  
 - ionic interactions  
 - evaporation cycles  
 
-→ materials do not necessarily degrade, but transform.
+So materials do not necessarily degrade, but transform.
 
 Most studies focus on compost or controlled environments. Marine conditions remain less explored.
 
-This project focuses on this gap:
-→ understanding how bioplastics behave in a real environment rather than ideal conditions.
+This project focuses on this gap: understanding how bioplastics behave in a real environment rather than ideal conditions.
 
 Key idea:
 A material’s impact depends on its context, not only its composition.# Research Background
@@ -99,9 +98,9 @@ Using “eco-friendly” materials can justify less responsible disposal behavio
 
 This project does not aim to present bioplastics as a solution, but to:
 
-→ Understand how they behave in a specific environment  
-→ Reveal the gap between perception and reality  
-→ Reframe sustainability as context-dependent  
+=> Understand how they behave in a specific environment  
+=> Reveal the gap between perception and reality  
+=> Reframe sustainability as context-dependent  
 
 ---
 
