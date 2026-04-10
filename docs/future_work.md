@@ -1,83 +1,94 @@
-# Discussion
+# Future Work
 
 ## Overview
 
-This project explores the behavior of bioplastics beyond their intended use, focusing on their transformation in a marine-like environment.
+This project opens several directions for further exploration at the intersection of material science, design, and artistic practice.
 
 ---
 
-## From Material to Consequences
+## 1. Research Direction
 
-The project follows a logical progression:
+### Objective
 
-- Recipe → determines material properties  
-- Properties → define possible uses  
-- Use → determines exposure conditions  
-- Environment → influences transformations  
+Better understand the chemical interactions between alginate and ions in marine environments.
 
-This highlights that material design cannot be separated from its context of use and end-of-life.
+### Research Questions
 
----
+- How do Ca²⁺ and Na⁺ ions influence alginate structure over time?  
+- What are the long-term transformation mechanisms?  
+- How reversible are these transformations?  
 
-## Challenging the Biodegradable Narrative
+### Methodology
 
-Bioplastics are often perceived as environmentally harmless.
+- Controlled experiments with isolated ions  
+- Long-term exposure studies  
+- Mechanical testing (flexibility, resistance)  
+- Microscopic analysis  
 
-However, the results show that:
-- Materials do not disappear in marine conditions  
-- They undergo transformations instead  
-- These transformations may still impact the environment  
+### Goal
 
-This challenges the idea that bioplastics are a universal solution.
-
----
-
-## The Role of Context
-
-The same material behaves differently depending on:
-- Salinity  
-- Exposure method  
-- Duration  
-
-This reinforces the idea that:
-
-> Designing with biomaterials means designing with context.
+Produce more rigorous data on transformation mechanisms and contribute to research in material design and bio-based materials.
 
 ---
 
-## Link to Initial Application
+## 2. Design Tool
 
-The project originates from workshops with children, where bioplastics were used as a replacement for conventional plastics.
+### Concept
 
-During these workshops, a key question emerged:
+Develop a **material library of transformations**.
 
-> “If it’s made from algae, can we throw it in the sea?”
+### Content
 
-This question revealed a misunderstanding between:
-- Natural origin  
-- Environmental impact  
+- Recipes  
+- Environmental conditions  
+- Observed transformations  
 
----
+### Purpose
 
-## Limits of the Study
-
-- Simplified seawater model  
-- No biological degradation considered  
-- Short experimental timeframe  
-- Qualitative observations  
+Provide designers with:
+- A predictive understanding of material behavior  
+- A tool to select materials based on context  
 
 ---
 
-## Design Implications
+## 3. Artistic Installation
 
-The results suggest that:
+### Concept
 
-- Bioplastics should not be used indiscriminately  
-- Their relevance depends on the context  
-- Their end-of-life must be considered during design  
+Create an installation that makes material transformation visible over time.
+
+### Proposal
+
+- Bioplastic films exposed to saltwater in real time  
+- Controlled environment (light, humidity, evaporation)  
+- Progressive visual transformation  
+
+### Intention
+
+- Reveal invisible processes  
+- Confront the audience with material reality  
+- Highlight the gap between expectation and actual behavior  
 
 ---
 
-## Key Insight
+## 4. Extension of the Project
 
-> Sustainability is not a property of the material itself, but of the system in which it exists.
+- Explore other biopolymers (agar, starch, gelatin)  
+- Compare different environmental contexts (soil, compost, freshwater)  
+- Integrate user interaction or temporal storytelling  
+
+---
+
+## Final Perspective
+
+Future work aims to move from:
+
+→ Observation  
+→ Understanding  
+→ Application  
+
+---
+
+## Key Direction
+
+> Designing sustainable materials requires understanding their full lifecycle, including their transformation in real environments.
