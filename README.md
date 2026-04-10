@@ -86,6 +86,6 @@ These results challenge the assumption that bioplastics are inherently harmless 
 ### Steps
 
 1. Prepare bioplastic films (`materials/recipes/alginate_recipe.md`)  
-2. Cast and dry (24–48h)  
+2. Cast and dry (48-56h)  
 3. Prepare artificial seawater (`materials/recipes/seawater_recipe.md`)  
 4. Expose samples: (`results/data_tables.csv`)
