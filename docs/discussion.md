@@ -1,89 +1,83 @@
-# Research Background
+# Discussion
 
-## Context
+## Overview
 
-Bioplastics are often presented as sustainable alternatives to petroleum-based plastics. However, they currently represent less than 0.5% of global plastic production, which exceeds 430 million tons per year.
-
-While they are frequently described as biodegradable, their actual behavior in natural environments is highly dependent on conditions such as temperature, humidity, microbial activity, and salinity.
+This project explores the behavior of bioplastics beyond their intended use, focusing on their transformation in a marine-like environment.
 
 ---
 
-## Bioplastics and Environmental Conditions
+## From Material to Consequences
 
-Biopolymers such as alginate, agar, or starch-based materials are highly sensitive to water and ions.
+The project follows a logical progression:
 
-Their properties include:
-- Hydrophilicity (water absorption)
-- Sensitivity to environmental conditions
-- Variable mechanical behavior depending on formulation
+- Recipe → determines material properties  
+- Properties → define possible uses  
+- Use → determines exposure conditions  
+- Environment → influences transformations  
 
-This means that their degradation or transformation cannot be generalized.
-
----
-
-## Marine Environment Specificity
-
-The ocean presents a complex environment characterized by:
-- High salinity  
-- Presence of multiple ions (Na⁺, Ca²⁺, Mg²⁺)  
-- Cycles of immersion and evaporation  
-- Reduced UV exposure due to light attenuation  
-
-These conditions can induce:
-- Ionic exchanges  
-- Structural modifications  
-- Mineral deposition (crystallization)  
-
-Unlike common assumptions, materials do not necessarily disappear in such environments.
+This highlights that material design cannot be separated from its context of use and end-of-life.
 
 ---
 
-## Alginate Behavior
+## Challenging the Biodegradable Narrative
 
-Alginate is a biopolymer derived from brown algae.
+Bioplastics are often perceived as environmentally harmless.
 
-Its structure is strongly influenced by ionic interactions:
-- Calcium ions (Ca²⁺) → create crosslinks → increase rigidity  
-- Sodium ions (Na⁺) → can disrupt the structure  
+However, the results show that:
+- Materials do not disappear in marine conditions  
+- They undergo transformations instead  
+- These transformations may still impact the environment  
 
-This makes alginate particularly relevant for studying material transformation in marine environments.
-
----
-
-## Gap in Research
-
-Most studies on bioplastics focus on:
-- Composting conditions  
-- Controlled laboratory environments  
-
-However:
-- Marine environments remain less explored  
-- Real-world conditions differ significantly from ideal degradation scenarios  
+This challenges the idea that bioplastics are a universal solution.
 
 ---
 
-## Behavioral Biases
+## The Role of Context
 
-Two key biases affect how people perceive bioplastics:
+The same material behaves differently depending on:
+- Salinity  
+- Exposure method  
+- Duration  
 
-### Biodegradability bias
-People assume biodegradable materials are harmless in any environment.
+This reinforces the idea that:
 
-### Moral licensing
-Using “eco-friendly” materials can justify less responsible disposal behavior.
-
----
-
-## Project Position
-
-This project does not aim to present bioplastics as a solution, but to:
-
-→ Understand how they behave in a specific environment  
-→ Reveal the gap between perception and reality  
-→ Reframe sustainability as context-dependent  
+> Designing with biomaterials means designing with context.
 
 ---
 
-## Key Idea
+## Link to Initial Application
 
-> A material is not sustainable by nature, but by the conditions in which it is used and disposed of.
+The project originates from workshops with children, where bioplastics were used as a replacement for conventional plastics.
+
+During these workshops, a key question emerged:
+
+> “If it’s made from algae, can we throw it in the sea?”
+
+This question revealed a misunderstanding between:
+- Natural origin  
+- Environmental impact  
+
+---
+
+## Limits of the Study
+
+- Simplified seawater model  
+- No biological degradation considered  
+- Short experimental timeframe  
+- Qualitative observations  
+
+---
+
+## Design Implications
+
+The results suggest that:
+
+- Bioplastics should not be used indiscriminately  
+- Their relevance depends on the context  
+- Their end-of-life must be considered during design  
+
+---
+
+## Key Insight
+
+> Sustainability is not a property of the material itself, but of the system in which it exists.
