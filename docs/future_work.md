@@ -15,8 +15,7 @@ Create a material library:
 - recipes  
 - conditions  
 - observed transformations  
-
-→ help designers choose materials based on context.
+=> help designers choose materials based on context.
 
 ---
 
@@ -26,8 +25,7 @@ Expose bioplastics in real time:
 - saltwater  
 - controlled environment  
 - visible evolution  
-
-→ show transformation over time.
+=> show transformation over time.
 
 ---
 
