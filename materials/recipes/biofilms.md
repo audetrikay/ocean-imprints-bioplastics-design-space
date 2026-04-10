@@ -64,19 +64,9 @@
 3. Wait 2–5 minutes  
 4. Let dry again if needed  
 
----
-
-## Key Parameters
-
-- Alginate concentration:
-  - controls film formation and cohesion  
-
-- Glycerine concentration:
-  - low => rigid, brittle  
-  - high => flexible, elastic  
 
 - Film thickness:
-  - thicker → slower drying, higher resistance  
+  - thicker => slower drying, higher resistance  
 
 - Calcium exposure:
   - increases rigidity through crosslinking  
