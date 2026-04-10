@@ -27,7 +27,7 @@ A clearer understanding of transformation mechanisms, beyond qualitative observa
 
 ## Design Tool
 
-### Concept  : A material library of transformations documenting how bioplastics behave under different conditions.
+### Concept : a material library of transformations documenting how bioplastics behave under different conditions.
 
 ### Content  
 For each sample:
@@ -49,7 +49,9 @@ For each sample:
 
 ---
 
-## Artistic Installation : make material transformation visible in real time.
+## Artistic Installation
+
+### Concept : make material transformation visible in real time.
 
 ### Setup  
 - bioplastic films or shapes  
