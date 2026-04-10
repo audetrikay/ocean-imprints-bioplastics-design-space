@@ -21,7 +21,7 @@ The outcome is a **design space** documenting transformations such as deformatio
 
 ## Key Insight
 
-> Bioplastics do not disappear in marine environments? they transform.
+> Bioplastics do not disappear in marine environments, they transform.
 
 ---
 
@@ -35,7 +35,7 @@ The outcome is a **design space** documenting transformations such as deformatio
 
 The project is structured as an experimental design space based on variables:
 
-- **Recipe** (glycerine concentration → flexibility)  
+- **Recipe** (glycerine concentration => flexibility)  
 - **Water** (with or without seawater)  
 - **Method** (immersion vs vaporization)  
 - **Exposure intensity**  
@@ -61,7 +61,7 @@ These results challenge the assumption that bioplastics are inherently harmless 
 
 ![Rigidity evolution](results/rigidity_evolution.png)
 
-**Figure — Evolution of bioplastic rigidity under seawater exposure**
+**Figure _ Evolution of bioplastic rigidity under seawater exposure**
 
 - X-axis: immersion time (hours)  
 - Y-axis: deflection (mm)  
