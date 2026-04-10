@@ -1,8 +1,7 @@
 import matplotlib.pyplot as plt
 
-# Data (you can adjust later)
-time = [0, 6, 48, 144]  # hours (0h, 6h, 2d, 6d)
-
+# Data
+time = [0, 6, 48, 144]
 low_glycerine = [12, 9, 5, 3]
 high_glycerine = [18, 14, 10, 7]
 
@@ -17,5 +16,5 @@ plt.title("Evolution of bioplastic rigidity under seawater exposure")
 
 plt.legend()
 
-plt.savefig("rigidity_evolution.png")
+plt.savefig("results/rigidity_evolution.png")
 plt.show()
