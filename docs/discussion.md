@@ -18,7 +18,7 @@ This challenges the assumption that biodegradable materials are harmless.
 A key insight emerged from the workshops:
 “If it’s made from algae, can we throw it in the sea?”
 
-→ natural origin ≠ safe disposal  
+=> natural origin ≠ safe disposal  
 
 Implication:
 Bioplastics are relevant only if their use and end-of-life are considered together.
