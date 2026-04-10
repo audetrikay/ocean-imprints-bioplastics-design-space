@@ -16,21 +16,15 @@
 - Rigidification  
 - Deformation increases over time  
 
----
-
 ### Seawater + evaporation
 - Surface crystallization  
 - Rough texture  
 - Opacity decreases  
 
----
-
 ### Freshwater (control)
 - Swelling  
 - No crystallization  
 - Structure remains stable  
-
----
 
 ### Low vs high glycerine
 
@@ -41,8 +35,6 @@ Low glycerine:
 High glycerine:
 - More flexible  
 - Deforms but persists  
-
----
 
 ## General trend
 
