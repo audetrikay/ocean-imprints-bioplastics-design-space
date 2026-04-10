@@ -48,9 +48,3 @@ Day 15-17
 Day 18  
 - Compare samples  
 - Document results  
-
----
-
-## Purpose
-
-Ensure consistent timing across samples.
