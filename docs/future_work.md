@@ -5,8 +5,8 @@
 ### Objective  : better understand how alginate reacts to marine ionic environments.
  
 - Isolate ion effects:
-  - Ca²⁺ → crosslinking, rigidification  
-  - Na⁺ → structural destabilization  
+  - Ca²⁺ => crosslinking, rigidification  
+  - Na⁺ => structural destabilization  
 - Study long-term exposure:
   - observe evolution beyond a few days  
   - identify stable vs transient states  
