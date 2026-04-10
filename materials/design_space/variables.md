@@ -1,11 +1,4 @@
-
 # Design Space Variables
-
-## Overview
-
-The experimental design space is structured around three main variables that influence the behavior of alginate-based bioplastics in marine-like environments.
-
----
 
 ## VARIABLE A — Recipe
 
@@ -17,65 +10,92 @@ The experimental design space is structured around three main variables that inf
 ### Role
 
 Glycerine acts as a plasticizer:
-- Increases flexibility  
-- Reduces brittleness  
-- Modifies interaction with water  
+- increases flexibility  
+- reduces brittleness  
+- influences interaction with water  
 
 ### Hypothesis
 
-The initial mechanical properties of the material influence how it transforms in a marine environment.
+The initial mechanical properties of the material influence how it transforms under environmental conditions.
 
 ---
 
 ## VARIABLE B — Environment
 
-### Parameter: Water type
+### Parameter: Water presence
 
-- Freshwater  
-- Artificial seawater  
+- Without water (control)  
+- With artificial seawater  
 
 ### Role
 
-The ionic composition of the environment strongly affects alginate:
-
-- Freshwater → swelling, stability  
-- Seawater → ionic exchange (Na⁺ / Ca²⁺), structural modification  
+Water exposure triggers material transformation:
+- No water → stable structure  
+- Seawater → ionic interactions and structural changes  
 
 ### Hypothesis
 
-Salinity does not lead to disappearance but to transformation of the material.
+Exposure to seawater induces transformation rather than disappearance.
 
 ---
 
-## VARIABLE C — Exposure Conditions
+## VARIABLE C — Method
 
-### C1 — Time
+### Parameter: Exposure method
 
-- Short: 6 hours  
-- Long: 3 days  
+- Immersion  
+- Vaporization (spray)  
 
-Role:
-- Reveals different transformation stages  
+### Role
 
----
+- Immersion → transformation in the bulk of the material  
+- Vaporization → surface effects and crystallization  
 
-### C2 — Method
+### Hypothesis
 
-- Immersion → bulk transformation  
-- Evaporation → surface crystallization  
-
-Role:
-- Different physical and chemical mechanisms  
+Different exposure methods lead to different types of transformations.
 
 ---
 
-### C3 — Light
+## VARIABLE D — Exposure Intensity
+
+### Immersion (time-based)
+
+- 6 hours  
+- 2 days  
+- 6 days  
+
+### Vaporization (spray-based)
+
+- 1 spray  
+- 3 sprays  
+
+### Role
+
+- Longer immersion → deeper structural changes  
+- More sprays → increased surface crystallization  
+
+### Hypothesis
+
+Transformation intensity increases with exposure duration or repetition.
+
+---
+
+## VARIABLE E — Light
+
+### Parameter: Light exposure
 
 - With light  
 - Without light  
 
-Role:
-- Limited influence expected due to UV attenuation in water  
+### Role
+
+- Limited influence expected due to light attenuation in water  
+- Potential minor effect on surface drying  
+
+### Hypothesis
+
+Light has a secondary effect compared to salinity and exposure.
 
 ---
 
@@ -84,13 +104,20 @@ Role:
 | Variable | Parameter | Effect |
 |--------|----------|--------|
 | Recipe | Glycerine | Flexibility / rigidity |
-| Environment | Salinity | Ionic interactions |
-| Exposure | Time, method, light | Transformation dynamics |
+| Environment | Water presence | Activation of transformations |
+| Method | Immersion / vaporization | Bulk vs surface effects |
+| Exposure | Time / sprays | Transformation intensity |
+| Light | On / off | Secondary influence |
 
 ---
 
 ## Design Logic
 
-The combination of these variables allows the construction of a controlled experimental space to observe how materials evolve under different conditions.
+This design space isolates key parameters to observe how bioplastics respond to environmental exposure.
 
-The goal is not to measure degradation, but to reveal transformation mechanisms.
+The objective is to compare:
+- material formulation  
+- exposure conditions  
+- resulting transformations  
+
+→ not to measure degradation, but to reveal transformation mechanisms.
