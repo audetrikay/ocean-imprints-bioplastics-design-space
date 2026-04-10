@@ -1,92 +1,72 @@
 # Related Work — References
 
-## Bioplastics & material properties
+## Bioplastics & Material Properties
 
 **Sothornvit, R. & Krochta, J. (2001)**  
 *Plasticizers in edible films and coatings*  
-→ Montre l’impact des plastifiants (glycérine) sur :
-- flexibilité  
-- résistance  
-- structure des films  
+→ Shows the impact of plasticizers (such as glycerine) on:
+- flexibility  
+- mechanical resistance  
+- film structure  
 
 ---
 
 **Vieira, M. G. A. et al. (2011)**  
 *Natural-based plasticizers and biopolymer films*  
-→ Confirme que de petites variations de glycérine modifient fortement :
-- propriétés mécaniques  
-- interaction avec l’eau  
+→ Demonstrates that small variations in glycerine significantly affect:
+- mechanical properties  
+- water interaction  
 
 ---
 
-## Alginate & ionic interactions
+## Alginate & Ionic Interactions
 
 **Lee, K. Y. & Mooney, D. J. (2012)**  
 *Alginate: Properties and biomedical applications*  
-→ Référence clé sur :
-- interaction alginate / ions  
-- rôle du calcium (rigidification)  
-- sensibilité aux environnements ioniques  
+→ Key reference explaining:
+- alginate–ion interactions  
+- role of calcium (Ca²⁺) in crosslinking  
+- sensitivity to ionic environments  
 
 ---
 
-## Marine environment & plastics
+## Marine Environment & Plastics
 
 **Andrady, A. L. (2011)**  
 *Microplastics in the marine environment*  
-→ Montre que :
-- dégradation en mer est très lente  
-- UV atténués dans l’eau  
-- transformation plus que disparition  
+→ Shows that:
+- degradation in marine environments is very slow  
+- UV radiation is strongly attenuated in water  
+- materials tend to transform rather than disappear  
 
 ---
 
-## Artificial seawater
+## Artificial Seawater
 
 **ASTM D1141-98 (revised)**  
 *Standard Practice for the Preparation of Substitute Ocean Water*  
-→ Fournit :
-- composition standard de l’eau de mer  
-- base pour reproduire un environnement contrôlé  
+→ Provides:
+- standard composition of seawater  
+- reference for controlled experimental replication  
 
 ---
 
-## Light in aquatic environments
+## Light in Aquatic Environments
 
 **Kirk, J. T. O. (1994)**  
 *Light and Photosynthesis in Aquatic Ecosystems*  
-→ Explique :
-- atténuation de la lumière dans l’eau  
-- faible pénétration des UV  
-→ impact sur les matériaux  
+→ Explains:
+- light attenuation in water  
+- limited UV penetration  
+→ impact on material degradation processes  
 
 ---
 
-## Behavioral biases
+## Behavioral Biases
 
 **Taufik, D. et al. (2020)**  
 *The paradox between biodegradable plastics and littering behavior*  
-→ Montre que :
-- les matériaux perçus comme “biodégradables” sont plus mal jetés  
-- confusion entre perception écologique et comportement réel  
+→ Shows that:
+- “biodegradable” materials are more likely to be improperly discarded  
+- perception of sustainability influences behavior  
 
----
-
-## Gap identified
-
-Ces travaux montrent que :
-- les propriétés des bioplastiques sont bien étudiées  
-- les interactions ioniques sont connues  
-- le milieu marin est documenté pour les plastiques classiques  
-
-MAIS :
-- peu d’études sur bioplastiques en milieu marin  
-- peu d’observation des transformations visibles  
-
----
-
-## Contribution du projet
-
-→ Étudier les bioplastiques dans un environnement marin simulé  
-→ Observer des transformations visibles  
-→ Produire un atlas de comportements matériaux  
