@@ -1,58 +1,57 @@
-# Experimental Protocol
+# Observations
 
-## Goal
+## What is observed
 
-Observe how alginate bioplastics transform under marine-like conditions.
-
----
-
-## Variables
-
-- Glycerine: low (2g) / high (6g)  
-- Water: freshwater / seawater  
-- Method: immersion / evaporation  
-- Time: short (6h) / long (3d)  
-- Light: with / without  
+- Flexibility  
+- Deformation  
+- Texture  
+- Transparency  
+- Crystallization  
 
 ---
 
-## Steps
+## Results by condition
 
-### 1. Film preparation
-- Mix alginate + water  
-- Add glycerine  
-- Cast films  
-- Dry (24–48h)  
-- Spray calcium lactate  
+### Seawater + immersion
+- Rigidification  
+- Deformation increases over time  
 
 ---
 
-### 2. Exposure
-
-**Immersion**
-- Samples fully submerged  
-
-**Evaporation**
-- Samples sprayed, then dried  
+### Seawater + evaporation
+- Surface crystallization  
+- Rough texture  
+- Opacity decreases  
 
 ---
 
-### 3. Observation
-
-At each time step:
-- flexibility  
-- deformation  
-- texture  
-- crystallization  
+### Freshwater (control)
+- Swelling  
+- No crystallization  
+- Structure remains stable  
 
 ---
 
-## Output
+### Low vs high glycerine
 
-Photos + qualitative notes for each sample.
+Low glycerine:
+- More rigid  
+- Breaks faster  
+
+High glycerine:
+- More flexible  
+- Deforms but persists  
 
 ---
 
-## Principle
+## General trend
 
-Compare how each variable affects material transformation.
+- Seawater → transformation  
+- Freshwater → stability  
+
+---
+
+## Key observation
+
+Bioplastics do not disappear.  
+They change structure depending on conditions.
