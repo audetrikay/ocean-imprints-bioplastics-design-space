@@ -1,120 +1,42 @@
 # Experimental Protocol
 
-## Objective
 
-This experiment aims to observe how alginate-based bioplastic films transform under marine-like conditions.
+## Variables
 
-The goal is not to measure biodegradation, but to reveal **physical and chemical transformation mechanisms**.
-
----
-
-## Materials
-
-### Bioplastics
-- Sodium alginate  
-- Distilled water  
-- Glycerine (2 g / 6 g)  
-- Calcium lactate (crosslinking)
-
-### Environment
-- Artificial seawater (see recipe)  
-- Freshwater (control)
-
-### Equipment
-- Casting plates  
-- Containers (immersion)  
-- Spray bottle (evaporation tests)  
-- Scale  
-- Timer  
+- Glycerine: low (2g) / high (6g)  
+- Water: freshwater / seawater  
+- Method: immersion / evaporation  
+- Time: short (6h) / long (3d)  
+- Light: with / without  
 
 ---
 
-## Sample Preparation
+## Steps
 
-1. Prepare alginate solution (see recipe)  
-2. Add glycerine (low or high concentration)  
-3. Cast films on flat surface  
-4. Dry at room temperature (24–48h)  
-5. Spray calcium lactate solution to stabilize  
-
----
-
-## Experimental Setup
-
-Each sample is assigned a combination of:
-
-- Glycerine concentration (low / high)  
-- Environment (freshwater / seawater)  
-- Exposure method (immersion / evaporation)  
-- Time (short / long)  
-- Light (with / without)  
+### 1. Film preparation
+- Mix alginate + water  
+- Add glycerine  
+- Cast films
+- Spray calcium lactate 
+- Dry (48-56h)  
+ 
 
 ---
 
-## Exposure Methods
+### 2. Exposure
 
-### 1. Immersion
+**Immersion**
+- Samples fully submerged during 6 hours, 2 days and 6 days 
 
-- Samples fully submerged in liquid  
-- Continuous exposure  
-- Observes internal transformations  
-
----
-
-### 2. Evaporation (spray)
-
-- Samples sprayed with seawater  
-- Left to dry between applications  
-- Simulates coastal conditions  
+**Evaporation**
+- Samples sprayed, then dried  
 
 ---
 
-## Exposure Time
+### 3. Observation
 
-- Short: ~6 hours  
-- Long: ~3 days  
-
-Additional observations may extend beyond this timeframe.
-
----
-
-## Observations
-
-At each time point, the following are recorded:
-
-- Flexibility  
-- Deformation  
-- Transparency  
-- Surface texture  
-- Presence of salt crystals  
-
----
-
-## Data Collection
-
-- Visual documentation (photos)  
-- Qualitative notes  
-- Simple mechanical tests (manual bending)  
-
----
-
-## Limitations
-
-- Simplified seawater model  
-- No microbiological activity  
-- Short observation time  
-
----
-
-## Experimental Logic
-
-The protocol isolates key variables to understand:
-
-→ How material formulation interacts with environmental conditions  
-→ How transformations emerge over time  
-
----
-
-## Key Principle
-
-> The experiment focuses on transformation, not disappearance.
+At each time step:
+- flexibility  
+- deformation  
+- texture  
+- crystallization  
