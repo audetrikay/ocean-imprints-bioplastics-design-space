@@ -14,7 +14,8 @@ Study ion–alginate interactions more precisely:
 Create a material library:
 - recipes  
 - conditions  
-- observed transformations  
+- observed transformations
+ 
 => help designers choose materials based on context.
 
 ---
@@ -24,7 +25,8 @@ Create a material library:
 Expose bioplastics in real time:
 - saltwater  
 - controlled environment  
-- visible evolution  
+- visible evolution
+
 => show transformation over time.
 
 ---
