@@ -1,11 +1,11 @@
 # Design Space Variables
 
-## VARIABLE A — Recipe
+## VARIABLE A : Recipe
 
 ### Parameter: Glycerine concentration
 
-- Low (2 g) → rigid films  
-- High (6 g) → flexible films  
+- Low (2 g) => rigid films  
+- High (6 g) => flexible films  
 
 ### Role
 
@@ -20,7 +20,7 @@ The initial mechanical properties of the material influence how it transforms un
 
 ---
 
-## VARIABLE B — Environment
+## VARIABLE B : Environment
 
 ### Parameter: Water presence
 
@@ -30,8 +30,8 @@ The initial mechanical properties of the material influence how it transforms un
 ### Role
 
 Water exposure triggers material transformation:
-- No water → stable structure  
-- Seawater → ionic interactions and structural changes  
+- No water => stable structure  
+- Seawater => ionic interactions and structural changes  
 
 ### Hypothesis
 
@@ -39,7 +39,7 @@ Exposure to seawater induces transformation rather than disappearance.
 
 ---
 
-## VARIABLE C — Method
+## VARIABLE C : Method
 
 ### Parameter: Exposure method
 
@@ -48,8 +48,8 @@ Exposure to seawater induces transformation rather than disappearance.
 
 ### Role
 
-- Immersion → transformation in the bulk of the material  
-- Vaporization → surface effects and crystallization  
+- Immersion => transformation in the bulk of the material  
+- Vaporization => surface effects and crystallization  
 
 ### Hypothesis
 
@@ -57,7 +57,7 @@ Different exposure methods lead to different types of transformations.
 
 ---
 
-## VARIABLE D — Exposure Intensity
+## VARIABLE D : Exposure Intensity
 
 ### Immersion (time-based)
 
@@ -72,8 +72,8 @@ Different exposure methods lead to different types of transformations.
 
 ### Role
 
-- Longer immersion → deeper structural changes  
-- More sprays → increased surface crystallization  
+- Longer immersion => deeper structural changes  
+- More sprays => increased surface crystallization  
 
 ### Hypothesis
 
@@ -81,7 +81,7 @@ Transformation intensity increases with exposure duration or repetition.
 
 ---
 
-## VARIABLE E — Light
+## VARIABLE E : Light
 
 ### Parameter: Light exposure
 
@@ -109,15 +109,3 @@ Light has a secondary effect compared to salinity and exposure.
 | Exposure | Time / sprays | Transformation intensity |
 | Light | On / off | Secondary influence |
 
----
-
-## Design Logic
-
-This design space isolates key parameters to observe how bioplastics respond to environmental exposure.
-
-The objective is to compare:
-- material formulation  
-- exposure conditions  
-- resulting transformations  
-
-→ not to measure degradation, but to reveal transformation mechanisms.
