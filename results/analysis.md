@@ -45,14 +45,14 @@ This analysis focuses on how alginate bioplastics transform under different cond
 
 ### Immersion (time)
 
-- 6h → slight changes  
-- 2d → visible deformation and rigidity  
-- 6d → strong rigidification, brittle behavior  
+- 6h => slight changes  
+- 2d => visible deformation and rigidity  
+- 6d => strong rigidification, brittle behavior  
 
 ### Vaporization (sprays)
 
-- 1 spray → limited effect  
-- 3 sprays → crystallization and surface modification  
+- 1 spray => limited effect  
+- 3 sprays => crystallization and surface modification  
 
 ---
 
