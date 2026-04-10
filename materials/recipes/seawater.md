@@ -39,21 +39,3 @@
 3. Stir until complete dissolution  
 4. Add distilled water to reach 1 L  
 5. Mix thoroughly  
-
----
-
-## Key Parameters
-
-- NaCl:
-  - controls salinity  
-  - promotes ionic exchange  
-
-- Calcium lactate:
-  - provides Ca²⁺ ions  
-  - induces alginate crosslinking  
-
-- Magnesium sulfate:
-  - contributes to ionic environment  
-
-- Phosphate:
-  - stabilizes solution   
