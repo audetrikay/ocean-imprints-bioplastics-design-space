@@ -2,16 +2,18 @@
 
 **Bioplastic films × Saltwater interaction**
 
+---
+
 ## Project Description
 
-OCEAN IMPRINTS explores how alginate-based bioplastics behave in a marine-like environment.
+OCEAN IMPRINTS explores how alginate-based bioplastics behave in a marine-like environment.  
 While bioplastics are often presented as sustainable alternatives, their behavior in real conditions remains poorly understood.
 
 This project investigates the gap between **promise and reality**, focusing on:
 
-* Material transformation rather than disappearance
-* The influence of environmental conditions
-* The role of context in material sustainability
+- Material transformation rather than disappearance  
+- The influence of environmental conditions  
+- The role of context in material sustainability  
 
 The outcome is a **design space and material atlas** documenting transformations such as deformation, crystallization, and rigidification.
 
@@ -31,55 +33,42 @@ The outcome is a **design space and material atlas** documenting transformations
 
 ## Approach
 
-The project is structured as an experimental design space based on three variables:
+The project is structured as an experimental design space based on variables:
 
-* **Recipe** (glycerine concentration → flexibility)
-* **Environment** (freshwater vs seawater)
-* **Exposure conditions** (time, immersion vs evaporation, light)
+- **Recipe** (glycerine concentration → flexibility)  
+- **Water** (with or without seawater)  
+- **Method** (immersion vs vaporization)  
+- **Exposure intensity**  
+  - Immersion: 6h / 2 days / 6 days  
+  - Vaporization: 1 spray / 3 sprays  
+- **Light** (with or without)  
 
 ---
 
 ## Results
 
-* No disappearance observed
-* Progressive rigidification
-* Structural deformation
-* Salt crystallization
-* Persistence of material
+- No disappearance observed  
+- Progressive rigidification  
+- Structural deformation  
+- Salt crystallization  
+- Persistence of material  
 
 These results challenge the assumption that bioplastics are inherently harmless in natural environments.
 
 ---
 
-## Repository Content
+## Results — Rigidity Evolution
 
-### Images & Videos
+![Rigidity evolution](results/rigidity_evolution.png)
 
-* Experimental setup
-* Samples before/after exposure
-* Transformation processes
+**Figure — Evolution of bioplastic rigidity under seawater exposure**
 
-### Materials & Recipes
+- X-axis: immersion time (hours)  
+- Y-axis: deflection (mm)  
+- Lower values = higher rigidity  
 
-* Alginate bioplastic formulation
-* Artificial seawater recipe (adapted from ASTM standard)
-
-### Fabrication Files
-
-* Laser-cut frames (.dxf / .svg)
-* 3D models (shark / ray)
-
-### Experimentation
-
-* Protocol
-* Sampling matrix
-* Observations
-
-### Results
-
-* Data tables
-* Material atlas
-* Analysis
+→ Rigidification increases over time  
+→ High glycerine maintains flexibility longer  
 
 ---
 
@@ -87,49 +76,17 @@ These results challenge the assumption that bioplastics are inherently harmless 
 
 ### Materials
 
-* Sodium alginate
-* Glycerine
-* Distilled water
-* Calcium lactate
-* Sea salt + ions
+- Sodium alginate  
+- Glycerine  
+- Distilled water  
+- Calcium lactate  
+- Sea salts (NaCl, MgSO₄, Ca²⁺ source)  
+
+---
 
 ### Steps
 
-1. Prepare bioplastic films (see `materials/recipes/`)
-2. Cast and dry films (24–48h)
-3. Prepare artificial seawater
-4. Expose samples under different conditions:
-
-   * Immersion / evaporation
-   * Short vs long duration
-   * With or without light
-5. Document transformations
-
----
-
-## Contribution
-
-* A **material atlas of transformations**
-* A **critical perspective on biodegradable materials**
-* A **design-oriented framework** linking material → usage → environment → impact
-
----
-
-## Future Work
-
-* Chemical analysis of ion–alginate interactions
-* Development of a material library for designers
-* Artistic installations revealing transformations over time
-
----
-
-## Author
-
-Aude — Creative Technology / Engineering
-ESILV — Paris
-
----
-
-## License
-
-Open for academic and research use.
+1. Prepare bioplastic films (`materials/recipes/alginate_recipe.md`)  
+2. Cast and dry (24–48h)  
+3. Prepare artificial seawater (`materials/recipes/seawater_recipe.md`)  
+4. Expose samples:results/data_tables.csv
