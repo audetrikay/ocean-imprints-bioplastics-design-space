@@ -1,5 +1,31 @@
 # Discussion
 
+The results show that bioplastics do not disappear in marine-like conditions.
+
+Observed effects:
+- rigidification  
+- deformation  
+- crystallization  
+- persistence  
+
+The behavior depends on:
+- formulation (glycerine)  
+- environment (salinity)  
+- exposure (time, method)  
+
+This challenges the assumption that biodegradable materials are harmless.
+
+A key insight emerged from the workshops:
+“If it’s made from algae, can we throw it in the sea?”
+
+→ natural origin ≠ safe disposal  
+
+Implication:
+Bioplastics are relevant only if their use and end-of-life are considered together.
+
+Key point:
+Sustainability depends on context.# Discussion
+
 ## Overview
 
 This project explores the behavior of bioplastics beyond their intended use, focusing on their transformation in a marine-like environment.
