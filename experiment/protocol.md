@@ -6,7 +6,7 @@
 - Glycerine: low (2g) / high (6g)  
 - Water: freshwater / seawater  
 - Method: immersion / evaporation  
-- Time: short (6h) / long (3d)  
+- Time: short (6h) / medium (2d)  / long (6d)
 - Light: with / without  
 
 ---
