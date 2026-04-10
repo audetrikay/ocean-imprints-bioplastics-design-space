@@ -9,7 +9,6 @@
 - mechanical resistance  
 - film structure  
 
----
 
 **B. Vieira, M. G. A. et al. (2011)**  
 *Natural-based plasticizers and biopolymer films*  
@@ -39,7 +38,6 @@
 - UV radiation is strongly attenuated in water  
 - materials tend to transform rather than disappear  
 
----
 
 **E. Lavagnolo, M. C. et al. (2024)**  
 *Biodegradability of bioplastics in different aquatic environments: A systematic review*  
